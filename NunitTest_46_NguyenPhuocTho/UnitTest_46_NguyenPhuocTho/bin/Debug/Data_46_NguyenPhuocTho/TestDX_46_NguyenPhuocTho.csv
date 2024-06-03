@@ -1,0 +1,9 @@
+﻿n,expected
+121,True
+123,False
+456,False
+111,True
+1,True
+21,False
+12121,True
+1111111,True

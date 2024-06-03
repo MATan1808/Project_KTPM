@@ -1,0 +1,15 @@
+D:\kiểm thử\NunitTest_46_NguyenPhuocTho\NunitTest_46_NguyenPhuocTho\bin\Debug\selenium-manager\linux\selenium-manager
+D:\kiểm thử\NunitTest_46_NguyenPhuocTho\NunitTest_46_NguyenPhuocTho\bin\Debug\selenium-manager\macos\selenium-manager
+D:\kiểm thử\NunitTest_46_NguyenPhuocTho\NunitTest_46_NguyenPhuocTho\bin\Debug\selenium-manager\windows\selenium-manager.exe
+D:\kiểm thử\NunitTest_46_NguyenPhuocTho\NunitTest_46_NguyenPhuocTho\bin\Debug\NunitTest_46_NguyenPhuocTho.exe.config
+D:\kiểm thử\NunitTest_46_NguyenPhuocTho\NunitTest_46_NguyenPhuocTho\bin\Debug\NunitTest_46_NguyenPhuocTho.exe
+D:\kiểm thử\NunitTest_46_NguyenPhuocTho\NunitTest_46_NguyenPhuocTho\bin\Debug\NunitTest_46_NguyenPhuocTho.pdb
+D:\kiểm thử\NunitTest_46_NguyenPhuocTho\NunitTest_46_NguyenPhuocTho\bin\Debug\WebDriver.dll
+D:\kiểm thử\NunitTest_46_NguyenPhuocTho\NunitTest_46_NguyenPhuocTho\obj\Debug\NunitTest_46_NguyenPhuocTho.csproj.AssemblyReference.cache
+D:\kiểm thử\NunitTest_46_NguyenPhuocTho\NunitTest_46_NguyenPhuocTho\obj\Debug\NunitTest_46_NguyenPhuocTho.Form1.resources
+D:\kiểm thử\NunitTest_46_NguyenPhuocTho\NunitTest_46_NguyenPhuocTho\obj\Debug\NunitTest_46_NguyenPhuocTho.Properties.Resources.resources
+D:\kiểm thử\NunitTest_46_NguyenPhuocTho\NunitTest_46_NguyenPhuocTho\obj\Debug\NunitTest_46_NguyenPhuocTho.csproj.GenerateResource.cache
+D:\kiểm thử\NunitTest_46_NguyenPhuocTho\NunitTest_46_NguyenPhuocTho\obj\Debug\NunitTest_46_NguyenPhuocTho.csproj.CoreCompileInputs.cache
+D:\kiểm thử\NunitTest_46_NguyenPhuocTho\NunitTest_46_NguyenPhuocTho\obj\Debug\NunitTes.943DFE4A.Up2Date
+D:\kiểm thử\NunitTest_46_NguyenPhuocTho\NunitTest_46_NguyenPhuocTho\obj\Debug\NunitTest_46_NguyenPhuocTho.exe
+D:\kiểm thử\NunitTest_46_NguyenPhuocTho\NunitTest_46_NguyenPhuocTho\obj\Debug\NunitTest_46_NguyenPhuocTho.pdb

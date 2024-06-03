@@ -1,0 +1,54 @@
+G:\KTPM\DoAn\Selenium_nhom3\bin\Debug\selenium-manager\linux\selenium-manager
+G:\KTPM\DoAn\Selenium_nhom3\bin\Debug\selenium-manager\macos\selenium-manager
+G:\KTPM\DoAn\Selenium_nhom3\bin\Debug\selenium-manager\windows\selenium-manager.exe
+G:\KTPM\DoAn\Selenium_nhom3\bin\Debug\Selenium_nhom3.exe.config
+G:\KTPM\DoAn\Selenium_nhom3\bin\Debug\Selenium_nhom3.exe
+G:\KTPM\DoAn\Selenium_nhom3\bin\Debug\Selenium_nhom3.pdb
+G:\KTPM\DoAn\Selenium_nhom3\bin\Debug\Newtonsoft.Json.dll
+G:\KTPM\DoAn\Selenium_nhom3\bin\Debug\WebDriver.dll
+G:\KTPM\DoAn\Selenium_nhom3\bin\Debug\Newtonsoft.Json.xml
+G:\KTPM\DoAn\Selenium_nhom3\bin\Debug\WebDriver.xml
+G:\KTPM\DoAn\Selenium_nhom3\obj\Debug\Selenium_nhom3.csproj.AssemblyReference.cache
+G:\KTPM\DoAn\Selenium_nhom3\obj\Debug\Selenium_nhom3.Form1.resources
+G:\KTPM\DoAn\Selenium_nhom3\obj\Debug\Selenium_nhom3.Properties.Resources.resources
+G:\KTPM\DoAn\Selenium_nhom3\obj\Debug\Selenium_nhom3.csproj.GenerateResource.cache
+G:\KTPM\DoAn\Selenium_nhom3\obj\Debug\Selenium_nhom3.csproj.CoreCompileInputs.cache
+G:\KTPM\DoAn\Selenium_nhom3\obj\Debug\Selenium.506B0A93.Up2Date
+G:\KTPM\DoAn\Selenium_nhom3\obj\Debug\Selenium_nhom3.exe
+G:\KTPM\DoAn\Selenium_nhom3\obj\Debug\Selenium_nhom3.pdb
+C:\Users\Acer\source\repos\Selenium_nhom3\bin\Debug\selenium-manager\linux\selenium-manager
+C:\Users\Acer\source\repos\Selenium_nhom3\bin\Debug\selenium-manager\macos\selenium-manager
+C:\Users\Acer\source\repos\Selenium_nhom3\bin\Debug\selenium-manager\windows\selenium-manager.exe
+C:\Users\Acer\source\repos\Selenium_nhom3\bin\Debug\Selenium_nhom3.exe.config
+C:\Users\Acer\source\repos\Selenium_nhom3\bin\Debug\Selenium_nhom3.exe
+C:\Users\Acer\source\repos\Selenium_nhom3\bin\Debug\Selenium_nhom3.pdb
+C:\Users\Acer\source\repos\Selenium_nhom3\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Acer\source\repos\Selenium_nhom3\bin\Debug\WebDriver.dll
+C:\Users\Acer\source\repos\Selenium_nhom3\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Acer\source\repos\Selenium_nhom3\bin\Debug\WebDriver.xml
+C:\Users\Acer\source\repos\Selenium_nhom3\obj\Debug\Selenium_nhom3.csproj.AssemblyReference.cache
+C:\Users\Acer\source\repos\Selenium_nhom3\obj\Debug\Selenium_nhom3.Form1.resources
+C:\Users\Acer\source\repos\Selenium_nhom3\obj\Debug\Selenium_nhom3.Properties.Resources.resources
+C:\Users\Acer\source\repos\Selenium_nhom3\obj\Debug\Selenium_nhom3.csproj.GenerateResource.cache
+C:\Users\Acer\source\repos\Selenium_nhom3\obj\Debug\Selenium_nhom3.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\Selenium_nhom3\obj\Debug\Selenium.506B0A93.Up2Date
+C:\Users\Acer\source\repos\Selenium_nhom3\obj\Debug\Selenium_nhom3.exe
+C:\Users\Acer\source\repos\Selenium_nhom3\obj\Debug\Selenium_nhom3.pdb
+G:\KTPM\DoAn\Selenium_nhom3 (1)\bin\Debug\selenium-manager\linux\selenium-manager
+G:\KTPM\DoAn\Selenium_nhom3 (1)\bin\Debug\selenium-manager\macos\selenium-manager
+G:\KTPM\DoAn\Selenium_nhom3 (1)\bin\Debug\selenium-manager\windows\selenium-manager.exe
+G:\KTPM\DoAn\Selenium_nhom3 (1)\bin\Debug\Selenium_nhom3.exe.config
+G:\KTPM\DoAn\Selenium_nhom3 (1)\bin\Debug\Selenium_nhom3.exe
+G:\KTPM\DoAn\Selenium_nhom3 (1)\bin\Debug\Selenium_nhom3.pdb
+G:\KTPM\DoAn\Selenium_nhom3 (1)\bin\Debug\Newtonsoft.Json.dll
+G:\KTPM\DoAn\Selenium_nhom3 (1)\bin\Debug\WebDriver.dll
+G:\KTPM\DoAn\Selenium_nhom3 (1)\bin\Debug\Newtonsoft.Json.xml
+G:\KTPM\DoAn\Selenium_nhom3 (1)\bin\Debug\WebDriver.xml
+G:\KTPM\DoAn\Selenium_nhom3 (1)\obj\Debug\Selenium_nhom3.csproj.AssemblyReference.cache
+G:\KTPM\DoAn\Selenium_nhom3 (1)\obj\Debug\Selenium_nhom3.Form1.resources
+G:\KTPM\DoAn\Selenium_nhom3 (1)\obj\Debug\Selenium_nhom3.Properties.Resources.resources
+G:\KTPM\DoAn\Selenium_nhom3 (1)\obj\Debug\Selenium_nhom3.csproj.GenerateResource.cache
+G:\KTPM\DoAn\Selenium_nhom3 (1)\obj\Debug\Selenium_nhom3.csproj.CoreCompileInputs.cache
+G:\KTPM\DoAn\Selenium_nhom3 (1)\obj\Debug\Selenium.506B0A93.Up2Date
+G:\KTPM\DoAn\Selenium_nhom3 (1)\obj\Debug\Selenium_nhom3.exe
+G:\KTPM\DoAn\Selenium_nhom3 (1)\obj\Debug\Selenium_nhom3.pdb

@@ -1,0 +1,10 @@
+C:\Users\Acer\source\repos\Bao_Cao_22_NguyenThiThanhMai\bin\x64\Debug\Bao_Cao_22_NguyenThiThanhMai.exe.config
+C:\Users\Acer\source\repos\Bao_Cao_22_NguyenThiThanhMai\bin\x64\Debug\Bao_Cao_22_NguyenThiThanhMai.exe
+C:\Users\Acer\source\repos\Bao_Cao_22_NguyenThiThanhMai\bin\x64\Debug\Bao_Cao_22_NguyenThiThanhMai.pdb
+C:\Users\Acer\source\repos\Bao_Cao_22_NguyenThiThanhMai\obj\x64\Debug\Bao_Cao_22_NguyenThiThanhMai.csproj.AssemblyReference.cache
+C:\Users\Acer\source\repos\Bao_Cao_22_NguyenThiThanhMai\obj\x64\Debug\Bao_Cao_22_NguyenThiThanhMai.Properties.Resources.resources
+C:\Users\Acer\source\repos\Bao_Cao_22_NguyenThiThanhMai\obj\x64\Debug\Bao_Cao_22_NguyenThiThanhMai.csproj.GenerateResource.cache
+C:\Users\Acer\source\repos\Bao_Cao_22_NguyenThiThanhMai\obj\x64\Debug\Bao_Cao_22_NguyenThiThanhMai.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\Bao_Cao_22_NguyenThiThanhMai\obj\x64\Debug\Bao_Cao_22_NguyenThiThanhMai.exe
+C:\Users\Acer\source\repos\Bao_Cao_22_NguyenThiThanhMai\obj\x64\Debug\Bao_Cao_22_NguyenThiThanhMai.pdb
+C:\Users\Acer\source\repos\Bao_Cao_22_NguyenThiThanhMai\obj\x64\Debug\Bao_Cao_22_NguyenThiThanhMai.Form1.resources

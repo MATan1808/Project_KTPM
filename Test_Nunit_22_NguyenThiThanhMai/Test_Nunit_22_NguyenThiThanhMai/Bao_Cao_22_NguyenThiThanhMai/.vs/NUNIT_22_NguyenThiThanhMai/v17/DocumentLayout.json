@@ -1,0 +1,240 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Acer\\source\\repos\\Bao_Cao_22_NguyenThiThanhMai\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3B3EA7EC-9D82-499E-AEFE-E43624F51F72}|..\\Test_BaoCao_22_NguyenThiThanhMai\\Test_BaoCao_22_NguyenThiThanhMai.csproj|c:\\users\\acer\\source\\repos\\test_baocao_22_nguyenthithanhmai\\test_hinhchunhat_22_nguyenthithanhmai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C6ACFA3-367D-4AAE-BF12-E7EB1175C020}|..\\Test_Gia_TriLonNhat_22_NguyenThiThanhMai\\Test_Gia_TriLonNhat_22_NguyenThiThanhMai.csproj|c:\\users\\acer\\source\\repos\\test_gia_trilonnhat_22_nguyenthithanhmai\\test_gia_tri_lon_nhat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C6ACFA3-367D-4AAE-BF12-E7EB1175C020}|..\\Test_Gia_TriLonNhat_22_NguyenThiThanhMai\\Test_Gia_TriLonNhat_22_NguyenThiThanhMai.csproj|c:\\users\\acer\\source\\repos\\test_gia_trilonnhat_22_nguyenthithanhmai\\data\\testgiatrilonnhat.csv||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C6ACFA3-367D-4AAE-BF12-E7EB1175C020}|..\\Test_Gia_TriLonNhat_22_NguyenThiThanhMai\\Test_Gia_TriLonNhat_22_NguyenThiThanhMai.csproj|c:\\users\\acer\\source\\repos\\test_gia_trilonnhat_22_nguyenthithanhmai\\data\\testhinhchunhat.csv||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B3EA7EC-9D82-499E-AEFE-E43624F51F72}|..\\Test_BaoCao_22_NguyenThiThanhMai\\Test_BaoCao_22_NguyenThiThanhMai.csproj|c:\\users\\acer\\source\\repos\\test_baocao_22_nguyenthithanhmai\\test_gia_tri_lon_nhat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D7843B7-6B6A-438B-BB8A-A16F72C0BC08}|..\\GiaTriLonNhat_22_NguyenThiThanhMai\\GiaTriLonNhat_22_NguyenThiThanhMai.csproj|c:\\users\\acer\\source\\repos\\giatrilonnhat_22_nguyenthithanhmai\\gtlonnhat_22_nguyenthithanhmai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D7843B7-6B6A-438B-BB8A-A16F72C0BC08}|..\\GiaTriLonNhat_22_NguyenThiThanhMai\\GiaTriLonNhat_22_NguyenThiThanhMai.csproj|c:\\users\\acer\\source\\repos\\giatrilonnhat_22_nguyenthithanhmai\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|GiaTriLonNhat_22_NguyenThiThanhMai||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B3EA7EC-9D82-499E-AEFE-E43624F51F72}|..\\Test_BaoCao_22_NguyenThiThanhMai\\Test_BaoCao_22_NguyenThiThanhMai.csproj|c:\\users\\acer\\source\\repos\\test_baocao_22_nguyenthithanhmai\\data\\testgiatrilonnhat.csv||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B3EA7EC-9D82-499E-AEFE-E43624F51F72}|..\\Test_BaoCao_22_NguyenThiThanhMai\\Test_BaoCao_22_NguyenThiThanhMai.csproj|c:\\users\\acer\\source\\repos\\test_baocao_22_nguyenthithanhmai\\data\\testhinhchunhat.csv||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5085F20-26F3-4B0D-8D05-66F15EDB482B}|NUNIT_22_NguyenThiThanhMai.csproj|C:\\Users\\Acer\\source\\repos\\Bao_Cao_22_NguyenThiThanhMai\\hinhchunhat_22_nguyenthithanhmai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5085F20-26F3-4B0D-8D05-66F15EDB482B}|NUNIT_22_NguyenThiThanhMai.csproj|solutionrelative:hinhchunhat_22_nguyenthithanhmai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5085F20-26F3-4B0D-8D05-66F15EDB482B}|Bao_Cao_22_NguyenThiThanhMai.csproj|C:\\Users\\Acer\\source\\repos\\Bao_Cao_22_NguyenThiThanhMai\\hinhchunhat_22_nguyenthithanhmai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5085F20-26F3-4B0D-8D05-66F15EDB482B}|Bao_Cao_22_NguyenThiThanhMai.csproj|solutionrelative:hinhchunhat_22_nguyenthithanhmai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5085F20-26F3-4B0D-8D05-66F15EDB482B}|NUNIT_22_NguyenThiThanhMai.csproj|C:\\Users\\Acer\\source\\repos\\Bao_Cao_22_NguyenThiThanhMai\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C5085F20-26F3-4B0D-8D05-66F15EDB482B}|NUNIT_22_NguyenThiThanhMai.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 251,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Test_HinhChuNhat_22_NguyenThiThanhMai.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\source\\repos\\Test_BaoCao_22_NguyenThiThanhMai\\Test_HinhChuNhat_22_NguyenThiThanhMai.cs",
+              "RelativeDocumentMoniker": "..\\Test_BaoCao_22_NguyenThiThanhMai\\Test_HinhChuNhat_22_NguyenThiThanhMai.cs",
+              "ToolTip": "C:\\Users\\Acer\\source\\repos\\Test_BaoCao_22_NguyenThiThanhMai\\Test_HinhChuNhat_22_NguyenThiThanhMai.cs",
+              "RelativeToolTip": "..\\Test_BaoCao_22_NguyenThiThanhMai\\Test_HinhChuNhat_22_NguyenThiThanhMai.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwBcAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T11:22:42.176Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e78e0cf7-2e4e-48a7-bf7f-a94d9330a3be}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{80c411e8-fd5e-4b16-914b-0d9d84172cc1}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TestGiaTriLonNhat.csv",
+              "DocumentMoniker": "C:\\Users\\Acer\\source\\repos\\Test_Gia_TriLonNhat_22_NguyenThiThanhMai\\Data\\TestGiaTriLonNhat.csv",
+              "RelativeDocumentMoniker": "..\\Test_Gia_TriLonNhat_22_NguyenThiThanhMai\\Data\\TestGiaTriLonNhat.csv",
+              "ToolTip": "C:\\Users\\Acer\\source\\repos\\Test_Gia_TriLonNhat_22_NguyenThiThanhMai\\Data\\TestGiaTriLonNhat.csv",
+              "RelativeToolTip": "..\\Test_Gia_TriLonNhat_22_NguyenThiThanhMai\\Data\\TestGiaTriLonNhat.csv",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002120|",
+              "WhenOpened": "2024-06-01T14:32:28.346Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TestHinhChuNhat.csv",
+              "DocumentMoniker": "C:\\Users\\Acer\\source\\repos\\Test_Gia_TriLonNhat_22_NguyenThiThanhMai\\Data\\TestHinhChuNhat.csv",
+              "RelativeDocumentMoniker": "..\\Test_Gia_TriLonNhat_22_NguyenThiThanhMai\\Data\\TestHinhChuNhat.csv",
+              "ToolTip": "C:\\Users\\Acer\\source\\repos\\Test_Gia_TriLonNhat_22_NguyenThiThanhMai\\Data\\TestHinhChuNhat.csv",
+              "RelativeToolTip": "..\\Test_Gia_TriLonNhat_22_NguyenThiThanhMai\\Data\\TestHinhChuNhat.csv",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002120|",
+              "WhenOpened": "2024-06-01T14:32:18.296Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Test_Gia_Tri_Lon_Nhat.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\source\\repos\\Test_Gia_TriLonNhat_22_NguyenThiThanhMai\\Test_Gia_Tri_Lon_Nhat.cs",
+              "RelativeDocumentMoniker": "..\\Test_Gia_TriLonNhat_22_NguyenThiThanhMai\\Test_Gia_Tri_Lon_Nhat.cs",
+              "ToolTip": "C:\\Users\\Acer\\source\\repos\\Test_Gia_TriLonNhat_22_NguyenThiThanhMai\\Test_Gia_Tri_Lon_Nhat.cs",
+              "RelativeToolTip": "..\\Test_Gia_TriLonNhat_22_NguyenThiThanhMai\\Test_Gia_Tri_Lon_Nhat.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T14:21:16.493Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Acer\\source\\repos\\GiaTriLonNhat_22_NguyenThiThanhMai\\Form1.cs",
+              "RelativeDocumentMoniker": "..\\GiaTriLonNhat_22_NguyenThiThanhMai\\Form1.cs",
+              "ToolTip": "C:\\Users\\Acer\\source\\repos\\GiaTriLonNhat_22_NguyenThiThanhMai\\Form1.cs [Design]",
+              "RelativeToolTip": "..\\GiaTriLonNhat_22_NguyenThiThanhMai\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T14:14:45.541Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GiaTriLonNhat_22_NguyenThiThanhMai",
+              "DocumentMoniker": "C:\\Users\\Acer\\source\\repos\\GiaTriLonNhat_22_NguyenThiThanhMai\\GiaTriLonNhat_22_NguyenThiThanhMai.csproj",
+              "RelativeDocumentMoniker": "..\\GiaTriLonNhat_22_NguyenThiThanhMai\\GiaTriLonNhat_22_NguyenThiThanhMai.csproj",
+              "ToolTip": "C:\\Users\\Acer\\source\\repos\\GiaTriLonNhat_22_NguyenThiThanhMai\\GiaTriLonNhat_22_NguyenThiThanhMai.csproj",
+              "RelativeToolTip": "..\\GiaTriLonNhat_22_NguyenThiThanhMai\\GiaTriLonNhat_22_NguyenThiThanhMai.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-06-01T14:13:26.718Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "HinhChuNhat_22_NguyenThiThanhMai.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\source\\repos\\Bao_Cao_22_NguyenThiThanhMai\\HinhChuNhat_22_NguyenThiThanhMai.cs",
+              "RelativeDocumentMoniker": "HinhChuNhat_22_NguyenThiThanhMai.cs",
+              "ToolTip": "C:\\Users\\Acer\\source\\repos\\Bao_Cao_22_NguyenThiThanhMai\\HinhChuNhat_22_NguyenThiThanhMai.cs",
+              "RelativeToolTip": "HinhChuNhat_22_NguyenThiThanhMai.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T13:50:33.811Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GTLonNhat_22_NguyenThiThanhMai.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\source\\repos\\GiaTriLonNhat_22_NguyenThiThanhMai\\GTLonNhat_22_NguyenThiThanhMai.cs",
+              "RelativeDocumentMoniker": "..\\GiaTriLonNhat_22_NguyenThiThanhMai\\GTLonNhat_22_NguyenThiThanhMai.cs",
+              "ToolTip": "C:\\Users\\Acer\\source\\repos\\GiaTriLonNhat_22_NguyenThiThanhMai\\GTLonNhat_22_NguyenThiThanhMai.cs",
+              "RelativeToolTip": "..\\GiaTriLonNhat_22_NguyenThiThanhMai\\GTLonNhat_22_NguyenThiThanhMai.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T17:34:58.845Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Test_Gia_Tri_Lon_Nhat.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\source\\repos\\Test_BaoCao_22_NguyenThiThanhMai\\Test_Gia_Tri_Lon_Nhat.cs",
+              "RelativeDocumentMoniker": "..\\Test_BaoCao_22_NguyenThiThanhMai\\Test_Gia_Tri_Lon_Nhat.cs",
+              "ToolTip": "C:\\Users\\Acer\\source\\repos\\Test_BaoCao_22_NguyenThiThanhMai\\Test_Gia_Tri_Lon_Nhat.cs",
+              "RelativeToolTip": "..\\Test_BaoCao_22_NguyenThiThanhMai\\Test_Gia_Tri_Lon_Nhat.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T14:51:53.658Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "HinhChuNhat_22_NguyenThiThanhMai.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\source\\repos\\Bao_Cao_22_NguyenThiThanhMai\\HinhChuNhat_22_NguyenThiThanhMai.cs",
+              "RelativeDocumentMoniker": "HinhChuNhat_22_NguyenThiThanhMai.cs",
+              "ToolTip": "C:\\Users\\Acer\\source\\repos\\Bao_Cao_22_NguyenThiThanhMai\\HinhChuNhat_22_NguyenThiThanhMai.cs",
+              "RelativeToolTip": "HinhChuNhat_22_NguyenThiThanhMai.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T11:15:04.082Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Acer\\source\\repos\\Bao_Cao_22_NguyenThiThanhMai\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\Acer\\source\\repos\\Bao_Cao_22_NguyenThiThanhMai\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T11:09:24.176Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TestHinhChuNhat.csv",
+              "DocumentMoniker": "C:\\Users\\Acer\\source\\repos\\Test_BaoCao_22_NguyenThiThanhMai\\Data\\TestHinhChuNhat.csv",
+              "RelativeDocumentMoniker": "..\\Test_BaoCao_22_NguyenThiThanhMai\\Data\\TestHinhChuNhat.csv",
+              "ToolTip": "C:\\Users\\Acer\\source\\repos\\Test_BaoCao_22_NguyenThiThanhMai\\Data\\TestHinhChuNhat.csv",
+              "RelativeToolTip": "..\\Test_BaoCao_22_NguyenThiThanhMai\\Data\\TestHinhChuNhat.csv",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002120|",
+              "WhenOpened": "2024-05-31T11:02:32.516Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TestGiaTriLonNhat.csv",
+              "DocumentMoniker": "C:\\Users\\Acer\\source\\repos\\Test_BaoCao_22_NguyenThiThanhMai\\Data\\TestGiaTriLonNhat.csv",
+              "RelativeDocumentMoniker": "..\\Test_BaoCao_22_NguyenThiThanhMai\\Data\\TestGiaTriLonNhat.csv",
+              "ToolTip": "C:\\Users\\Acer\\source\\repos\\Test_BaoCao_22_NguyenThiThanhMai\\Data\\TestGiaTriLonNhat.csv",
+              "RelativeToolTip": "..\\Test_BaoCao_22_NguyenThiThanhMai\\Data\\TestGiaTriLonNhat.csv",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002120|",
+              "WhenOpened": "2024-05-31T11:02:31.165Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,103 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "G:\\KTPM\\DoAn\\Selenium_nhom3 (1)\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{39A4C3E2-D694-4AD7-8720-6850347D8DA0}|Selenium_nhom3.csproj|g:\\ktpm\\doan\\selenium_nhom3 (1)\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39A4C3E2-D694-4AD7-8720-6850347D8DA0}|Selenium_nhom3.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39A4C3E2-D694-4AD7-8720-6850347D8DA0}|Selenium_nhom3.csproj|g:\\ktpm\\doan\\selenium_nhom3 (1)\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{39A4C3E2-D694-4AD7-8720-6850347D8DA0}|Selenium_nhom3.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39A4C3E2-D694-4AD7-8720-6850347D8DA0}|Selenium_nhom3.csproj|g:\\ktpm\\doan\\selenium_nhom3 (1)\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39A4C3E2-D694-4AD7-8720-6850347D8DA0}|Selenium_nhom3.csproj|solutionrelative:form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39A4C3E2-D694-4AD7-8720-6850347D8DA0}|Selenium_nhom3.csproj|g:\\ktpm\\doan\\selenium_nhom3 (1)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39A4C3E2-D694-4AD7-8720-6850347D8DA0}|Selenium_nhom3.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "G:\\KTPM\\DoAn\\Selenium_nhom3 (1)\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "G:\\KTPM\\DoAn\\Selenium_nhom3 (1)\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AQIAALoAAAAAAAAAAAAUwMwAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T06:02:44.944Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "G:\\KTPM\\DoAn\\Selenium_nhom3 (1)\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "G:\\KTPM\\DoAn\\Selenium_nhom3 (1)\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T06:02:40.597Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "G:\\KTPM\\DoAn\\Selenium_nhom3 (1)\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Form1.Designer.cs",
+              "ToolTip": "G:\\KTPM\\DoAn\\Selenium_nhom3 (1)\\Form1.Designer.cs",
+              "RelativeToolTip": "Form1.Designer.cs",
+              "ViewState": "AQIAAIUAAAAAAAAAAAAqwJAAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T06:02:33.095Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "G:\\KTPM\\DoAn\\Selenium_nhom3 (1)\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "G:\\KTPM\\DoAn\\Selenium_nhom3 (1)\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAAAA0AAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T06:02:23.94Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
